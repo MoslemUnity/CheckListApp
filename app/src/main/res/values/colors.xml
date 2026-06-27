@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="primary">#0052CC</color>
+    <color name="primary_dark">#003D99</color>
+    <color name="primary_light">#E6F0FF</color>
+
+    <!-- Semantic Colors -->
+    <color name="success">#00875A</color>
+    <color name="success_bg">#E6F7F0</color>
+    <color name="error">#D13838</color>
+    <color name="error_bg">#FCE8E8</color>
+
+    <!-- Surface & Background -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F3F4</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1D2129</color>
+    <color name="text_secondary">#4F5764</color>
+    <color name="text_disabled">#A0A4AB</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- UI Elements -->
+    <color name="divider">#E4E7EC</color>
+    <color name="shadow">#00000015</color>
+</resources>
